@@ -7,9 +7,8 @@ pipeline {
                 sh 'echo using shell within jenkins file'
                 echo 'not usin shell in jenkinsfile'
             }
-            
+
         }
 
     }
-
 }
